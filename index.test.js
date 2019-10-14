@@ -4,6 +4,7 @@ test('that weekNum returns a value', () => {
   expect(weekNum).not.toBeNull();
 });
 
+// a comment
 test('that weekNum returns a number', () => {
   expect(weekNum).toBeDefined();
 });
